@@ -11,5 +11,5 @@ Interactive buttons and elements.
 # Installation
 You can provide instructions on how to clone or download the project, as well as any additional requirements to run it successfully.
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/NesoDev/Google-Responsive
 cd your-repo
